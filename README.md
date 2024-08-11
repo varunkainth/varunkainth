@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer 🚀 with a str
 ## 📫 How to Reach Me
 - **GitHub**: [Varun Kainth](https://github.com/varunkainth)
 - **LinkedIn**: [Varun Kainth](https://www.linkedin.com/in/varun-kainth-6812b0200/)
-- **Email**: [varunkainth11@outlook.com](mailto:varunkainth11@outlook.com)
+- **Email**: [varunkainth](mailto:varunkainth11@outlook.com)
 
 ## ⚡ Fun Facts
 - I prefer Tailwind CSS over styled-components for its simplicity and flexibility.
